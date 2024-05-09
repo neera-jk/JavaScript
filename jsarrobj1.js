@@ -1,13 +1,13 @@
-// var clothes = []
-// clothes.push("shirt")
-// clothes.push("pant")
-// clothes.push("shorts")
-// clothes.push("socks")
-// clothes.push("tie")
-// clothes.pop()
-// clothes.push("shoe")
-// console.log(clothes[2])
-// console.log(clothes)
+var clothes = []
+clothes.push("shirt")
+clothes.push("pant")
+clothes.push("shorts")
+clothes.push("socks")
+clothes.push("tie")
+clothes.pop()
+clothes.push("shoe")
+console.log(clothes[2])
+console.log(clothes)
 
 
 var favCar = {}

@@ -24,7 +24,7 @@ console.log(a)
 console.log(b)
 const  test = () =>{
     let b = 30
-    var    a = 40
+    var  a = 40
         console.log(a)
         console.log(b)
 }
